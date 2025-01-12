@@ -127,6 +127,24 @@
       "part": ["Project Manager", "Planner", "UI/UX Design", "Front-end Developer"]
     },
 		{
+      "id": 7,
+      "customer": "쿠콘",
+      "projectName": "Daisy",
+      "imgWeb": "/images/project/detail_08.png",
+      "thumbnail":"/images/project/thumb_08.png",
+      "open": "2024.11",
+      "type": "Adaptive",
+      "hashTag": ["Adaptive","react"],
+      "new": false, 
+      "link": "",
+      "desc": "LLM 기반의 생성형 인공지능을 효율적으로 검증 및 테스트하기 위한 프로그램으로서 공개 여부에 따라 사용자간 테스트 결과 공유 및 재구성이 가능한 것이 특징입니다. RAG, Agent등 최신 AI 기술 활용과 미세 조정 등의 테스트를 통해 AI 성능 향상을 돕습니다.",
+      "review1Title": "콤팩트한 테스트 플로우 ",
+			"review1Desc": "AI 대화와 같이 다량의 정보 확인과 항목 입력이 필요한  항목에서의  불필요한 화면 이동을지양하기 위한 사용자 중심 UX 플로우 구성",
+			"review2Title": "기술별 최적화 UI 적용",
+			"review2Desc": "대화, 프롬프트, 도구, 데이터소스, 에이전트와 같이 기술 별 맞춤형 UI를 적용하였으며 컬러 태그 및 컬러 텍스트 사용으로 주요 정보 강조",
+      "part": ["Project Manager", "Planner", "UI/UX Design", "Front-end Developer"]
+    },
+		{
       "id": 8,
       "customer": "SK telecom / BD",
       "projectName": "AI Curation SAM 2.0",
