@@ -151,6 +151,25 @@
 			"review2Title": "AI 기반 고객 세분화 및 타겟팅",
 			"review2Desc": "AI를 활용하여 고객 데이터를 분석하고, 사용자의 질문에 실시간 답변을 제공하도록 구성",
       "part": ["Project Manager", "Planner", "UI/UX Design", "Front-end Developer"]
+    },
+		{
+      "id": 9,
+      "customer": "KTDS",
+      "projectName": "KT 사내검색포탈",
+      "imgWeb": "/images/project/detail_09png",
+			"imgWeb2": "/images/project/detail_sub_09.png",
+      "thumbnail":"/images/project/thumb_09.png",
+      "open": "2025.06",
+      "type": "Responsive",
+      "hashTag": ["Responsive","React"],
+      "new": false, 
+      "link": "",
+      "desc": "텍스트",
+      "review1Title": "텍스트",
+			"review1Desc": "텍스트",
+			"review2Title": "텍스트",
+			"review2Desc": "텍스트",
+      "part": ["Front-end Developer"]
     }
   ]
 }
